@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #c22b2b;
+    font-size: 30px;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+p {
+    font-size: 14px;
+    color: rgb(90, 88, 88);
+    max-width: 300px;
+}
+
+a {
+    letter-spacing: 4px;
+    font-weight: normal;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}

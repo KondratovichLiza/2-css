@@ -1,0 +1,13 @@
+        body {
+            background-image: url(images/cat.png);
+            background-size: cover;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #fff;
+            width: 40%;
+            padding-left: 30px;
+        }
+        
+        h2 {
+            background-image: linear-gradient(to top, rgb(107, 31, 31), rgba(143, 53, 53, 0.308));
+            padding: 7px 0 7px 5px;
+        }

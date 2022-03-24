@@ -1,0 +1,46 @@
+body {
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    margin: 0 400px 0 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.459);
+    padding: 12px;
+    font-size: 23px;
+}
+
+h2 {
+    color: rgb(245, 154, 35);
+    text-align: center;
+    font-size: 18px;
+}
+
+p {
+    font-size: 12px;
+}
+
+img {
+    width: 230px;
+}
+
+div {
+    border: 3px gray solid;
+    border-radius: 10px 0 10px 0;
+    margin-bottom: 20px;
+    padding: 0 20px 0 20px;
+}
+
+div div {
+    border: none;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(206, 76, 76);
+    font-weight: bold;
+    font-size: 10px;
+}
